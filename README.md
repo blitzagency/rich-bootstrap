@@ -1,4 +1,4 @@
-# Rich HTML Application Foundation
+# Rich HTML Application Bootstrap
 
 ## Features
 
