@@ -1,4 +1,4 @@
-# Marionette HTML Application Foundation
+# Rich HTML Application Foundation
 
 ## Features
 
@@ -6,11 +6,13 @@
     * SCSS
     * Compass
 * Application
+    * Rich
     * RequireJS
     * Marionette
     * Backbone
     * Handlebars
     * Underscore
+    * Famo.us
 * Unit Testing
     * Jasmine
     * Jasmine jQuery
