@@ -26,7 +26,7 @@ var AppController = marionette.Controller.extend({
 
         container.rectangle = rectangle;
         container.addSubview(rectangle);
-        this.app.body.addSubview(container);
+        this.app.body.fillWithSubview(container);
     },
 
     index: function(){
